@@ -32,10 +32,10 @@ XML
  Содержание добавленной информации:
  ```
 <info>
- <FIO>Ovsyannikov Nikita Dmitrievich</FIO>
- <AGE>22</AGE>
+ <FIO>Yamshchikov Vladimir Dmitrievich</FIO>
+ <AGE>23</AGE>
  <number_of_pets>0</number_of_pets>
- <Future_desired_salary>500</Future_desired_salary>
+ <Future_desired_salary>9000000000</Future_desired_salary>
 </info>
 ```
 ***
@@ -54,11 +54,11 @@ XML
 Содержание добавленной информации:
 ```
 <Favorite>
- <Favorite_movie>There will be blood</Favorite_movie>
- <Favorite_series>Breaking bad</Favorite_series>
- <favorite_food>Steak</favorite_food>
- <favorite_time_of_year>Winter</favorite_time_of_year>
- <country_you_like_to_visit>China</country_you_like_to_visit>
+ <Favorite_movie>American story X</Favorite_movie>
+ <Favorite_series>Black mirror</Favorite_series>
+ <favorite_food>Cheese</favorite_food>
+ <favorite_time_of_year>Summer</favorite_time_of_year>
+ <country_you_like_to_visit>Italy</country_you_like_to_visit>
 </Favorite>
 ```
 ***
