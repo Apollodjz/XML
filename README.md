@@ -6,12 +6,11 @@ XML
  ***
  22. Клонировать репозиторий XML на локальный компьютер.
 
- `git clone <HTTPS link>`
+ `git clone git@github.com:Apollodjz/XML.git`
  ***
  23. Внутри локального XML создать файл “new.xml”.
 
  `> new.xml |OR| touch new.xml`
- `touch new.xml`
  ***
  24. Добавить файл под гит.
 
